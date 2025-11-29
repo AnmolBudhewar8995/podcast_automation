@@ -1,0 +1,9 @@
+pydub
+soundfile
+noisereduce
+pyloudnorm
+mutagen
+tqdm
+openai-whisper
+scipy
+numpy
